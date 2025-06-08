@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission Database Manage the Field Agents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a161ac9e993128fe2f4e51cb2fad101f8ea468ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b20aa25626247c0735e1d57ff2a037d41e97cef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission Database Manage the Field Agents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission Database Manage the Field Agents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
