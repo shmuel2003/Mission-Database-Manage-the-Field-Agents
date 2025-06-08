@@ -41,7 +41,6 @@ namespace DAL
             cmd.ExecuteNonQuery();
         }
 
-
         public List<Agent> GetAllAgents()
         {
             List<Agent> agents = new List<Agent>();
@@ -74,7 +73,6 @@ namespace DAL
             return agents;
         }
 
-
         public void UpdateAgentLocation(int agentId, string newLocation)
         {
             MySqlConnection conn = new MySqlConnection(connectionString);
@@ -95,11 +93,5 @@ namespace DAL
             cmd.Parameters.AddWithValue("@id", agentId);
             cmd.ExecuteNonQuery();
         }
-
-
-
-
-
-
     }
 }
